@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "versionCode": 1,
+  "titulo": "¡Nueva versión disponible!",
+  "cambios": [
+    "Nuevas funciones",
+    "Errores corregidos",
+    "Mejor rendimiento"
+  ],
+  "enlace": "https://github.com/Mitsuki3124/nulo-app/releases/download/v1.0/nuloapp.apk",
+  "tamano": "pendiente MB"
+}
