@@ -1,13 +1,11 @@
 {
-  "version": "1.2.0",
-  "versionCode": 3,
+  "version": "1.3.0",
+  "versionCode": 4,
   "titulo": "¡Nueva versión disponible!",
   "cambios": [
-    "Fotos de perfil nítidas: ahora se guardan cuadradas a 640×640 px (calidad 88) y nunca se estiran",
-    "Nuevo recortador al elegir tu foto: mueve, amplía y confirma con ✔️, como en WhatsApp",
-    "Toca la foto de un contacto para verla: tarjeta con 💬 y ℹ️, foto a pantalla completa con zoom y perfil completo",
-    "Corrección de errores"
+    "App firmada con llave propia: desde esta versión las actualizaciones se instalan encima, sin perder tus datos",
+    "Si Android dice \"App no instalada\", desinstala la versión anterior una sola vez e instala esta (tus chats siguen en tu cuenta)"
   ],
-  "enlace": "https://github.com/Mitsuki3124/nulo-app/releases/download/v1.2.0/nuloapp.apk",
-  "tamano": "16.69 MB"
+  "enlace": "https://github.com/Mitsuki3124/nulo-app/releases/download/v1.3.0/nuloapp.apk",
+  "tamano": "pendiente MB"
 }
