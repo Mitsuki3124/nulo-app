@@ -1,13 +1,12 @@
 {
-  "version": "1.5.1",
-  "versionCode": 7,
+  "version": "1.5.2",
+  "versionCode": 8,
   "titulo": "¡Nueva versión disponible!",
   "cambios": [
-    "Las actualizaciones ahora se instalan encima de la versión anterior (botón Actualizar), sin tener que desinstalar la app",
-    "Al abrir la app se piden los permisos de micrófono y cámara para las llamadas de voz y las videollamadas",
-    "Las llamadas entrantes pueden aparecer a pantalla completa con el teléfono bloqueado (en Android 14 o superior se ofrece activarlo en ajustes)",
-    "Correcciones internas de estabilidad en las llamadas"
+    "En las llamadas de voz y videollamadas ahora se muestra la foto de perfil de la otra persona (antes solo su inicial)",
+    "Al colgar una videollamada la app ya no se cierra: vuelves al chat igual que al colgar una llamada de voz",
+    "Corrección interna al cerrar la cámara y la conexión de video al terminar una llamada"
   ],
-  "enlace": "https://github.com/Mitsuki3124/nulo-app/releases/download/v1.5.1/nuloapp.apk",
-  "tamano": "29.42 MB"
+  "enlace": "https://github.com/Mitsuki3124/nulo-app/releases/download/v1.5.2/nuloapp.apk",
+  "tamano": "pendiente MB"
 }
