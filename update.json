@@ -1,11 +1,14 @@
 {
-  "version": "1.4.0",
-  "versionCode": 5,
+  "version": "1.5.0",
+  "versionCode": 6,
   "titulo": "¡Nueva versión disponible!",
   "cambios": [
-    "En el chat, toca la foto de tu contacto (barra superior) para verla: tarjeta con la foto, ℹ️ para su perfil y foto a pantalla completa con zoom",
-    "Toca su nombre en la barra superior para abrir su perfil directamente"
+    "Llamadas de voz y videollamadas: toca 📞 o 🎥 en la barra superior del chat",
+    "El audio y el video van directos entre los teléfonos (WebRTC), sin pasar por servidores intermedios",
+    "Llamadas entrantes con timbre y pantalla completa, aunque la app esté cerrada o el teléfono bloqueado",
+    "Silenciar micrófono, altavoz, apagar y girar la cámara durante la llamada",
+    "Si tu red no permite la conexión directa, la app te avisa en lugar de quedarse esperando"
   ],
-  "enlace": "https://github.com/Mitsuki3124/nulo-app/releases/download/v1.4.0/nuloapp.apk",
-  "tamano": "12.32 MB"
+  "enlace": "https://github.com/Mitsuki3124/nulo-app/releases/download/v1.5.0/nuloapp.apk",
+  "tamano": "pendiente MB"
 }
