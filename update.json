@@ -1,14 +1,13 @@
 {
-  "version": "1.5.0",
-  "versionCode": 6,
+  "version": "1.5.1",
+  "versionCode": 7,
   "titulo": "¡Nueva versión disponible!",
   "cambios": [
-    "Llamadas de voz y videollamadas: toca 📞 o 🎥 en la barra superior del chat",
-    "El audio y el video van directos entre los teléfonos (WebRTC), sin pasar por servidores intermedios",
-    "Llamadas entrantes con timbre y pantalla completa, aunque la app esté cerrada o el teléfono bloqueado",
-    "Silenciar micrófono, altavoz, apagar y girar la cámara durante la llamada",
-    "Si tu red no permite la conexión directa, la app te avisa en lugar de quedarse esperando"
+    "Las actualizaciones ahora se instalan encima de la versión anterior (botón Actualizar), sin tener que desinstalar la app",
+    "Al abrir la app se piden los permisos de micrófono y cámara para las llamadas de voz y las videollamadas",
+    "Las llamadas entrantes pueden aparecer a pantalla completa con el teléfono bloqueado (en Android 14 o superior se ofrece activarlo en ajustes)",
+    "Correcciones internas de estabilidad en las llamadas"
   ],
-  "enlace": "https://github.com/Mitsuki3124/nulo-app/releases/download/v1.5.0/nuloapp.apk",
-  "tamano": "33.25 MB"
+  "enlace": "https://github.com/Mitsuki3124/nulo-app/releases/download/v1.5.1/nuloapp.apk",
+  "tamano": "pendiente MB"
 }
