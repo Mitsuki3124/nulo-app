@@ -1,12 +1,11 @@
 {
-  "version": "1.5.2",
-  "versionCode": 8,
+  "version": "1.5.3",
+  "versionCode": 9,
   "titulo": "¡Nueva versión disponible!",
   "cambios": [
-    "En las llamadas de voz y videollamadas ahora se muestra la foto de perfil de la otra persona (antes solo su inicial)",
-    "Al colgar una videollamada la app ya no se cierra: vuelves al chat igual que al colgar una llamada de voz",
-    "Corrección interna al cerrar la cámara y la conexión de video al terminar una llamada"
+    "Mejoras de estabilidad al recibir llamadas y al colgarlas (voz y videollamada)",
+    "Si la app se cierra inesperadamente, al volver a abrirla se muestra un informe del error para poder copiarlo y corregirlo"
   ],
-  "enlace": "https://github.com/Mitsuki3124/nulo-app/releases/download/v1.5.2/nuloapp.apk",
-  "tamano": "29.42 MB"
+  "enlace": "https://github.com/Mitsuki3124/nulo-app/releases/download/v1.5.3/nuloapp.apk",
+  "tamano": "pendiente MB"
 }
