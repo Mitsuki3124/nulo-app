@@ -1,11 +1,11 @@
 {
-  "version": "1.5.3",
-  "versionCode": 9,
+  "version": "1.5.4",
+  "versionCode": 10,
   "titulo": "¡Nueva versión disponible!",
   "cambios": [
-    "Mejoras de estabilidad al recibir llamadas y al colgarlas (voz y videollamada)",
-    "Si la app se cierra inesperadamente, al volver a abrirla se muestra un informe del error para poder copiarlo y corregirlo"
+    "Corregido el cierre de la app al iniciar, contestar o terminar una llamada en teléfonos con Android 8",
+    "El aviso de \"Llamada en curso\" ahora se activa de inmediato y de forma más segura"
   ],
-  "enlace": "https://github.com/Mitsuki3124/nulo-app/releases/download/v1.5.3/nuloapp.apk",
-  "tamano": "29.44 MB"
+  "enlace": "https://github.com/Mitsuki3124/nulo-app/releases/download/v1.5.4/nuloapp.apk",
+  "tamano": "pendiente MB"
 }
