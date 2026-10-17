@@ -1,11 +1,12 @@
 {
-  "version": "1.5.4",
-  "versionCode": 10,
+  "version": "1.5.5",
+  "versionCode": 11,
   "titulo": "¡Nueva versión disponible!",
   "cambios": [
-    "Corregido el cierre de la app al iniciar, contestar o terminar una llamada en teléfonos con Android 8",
-    "El aviso de \"Llamada en curso\" ahora se activa de inmediato y de forma más segura"
+    "Ahora puedes enviar GIFs y stickers desde el teclado (Gboard): toca el botón de GIF o stickers del teclado dentro del chat",
+    "Los stickers del teclado se envían al instante con su transparencia; los GIF se envían animados y puedes añadirles un texto",
+    "Se mejoró la caja de escribir mensajes"
   ],
-  "enlace": "https://github.com/Mitsuki3124/nulo-app/releases/download/v1.5.4/nuloapp.apk",
-  "tamano": "29.44 MB"
+  "enlace": "https://github.com/Mitsuki3124/nulo-app/releases/download/v1.5.5/nuloapp.apk",
+  "tamano": "pendiente MB"
 }
