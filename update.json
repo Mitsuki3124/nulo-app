@@ -5,8 +5,9 @@
   "cambios": [
     "Ahora puedes enviar GIFs y stickers desde el teclado (Gboard): toca el botón de GIF o stickers del teclado dentro del chat",
     "Los stickers del teclado se envían al instante con su transparencia; los GIF se envían animados y puedes añadirles un texto",
-    "Se mejoró la caja de escribir mensajes"
+    "Se mejoró la caja de escribir mensajes",
+    "En el chat, buscar y guardar la conversación ahora están en el menú de tres puntos (⋮)"
   ],
   "enlace": "https://github.com/Mitsuki3124/nulo-app/releases/download/v1.5.5/nuloapp.apk",
-  "tamano": "29.44 MB"
+  "tamano": "pendiente MB"
 }
