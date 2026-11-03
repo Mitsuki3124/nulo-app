@@ -1,11 +1,14 @@
 {
-  "version": "1.5.6",
-  "versionCode": 12,
+  "version": "1.5.7",
+  "versionCode": 13,
   "titulo": "¡Nueva versión disponible!",
   "cambios": [
-    "La caja de escribir ya admite textos largos: el texto baja a la siguiente línea (hasta 6 líneas) en lugar de seguir en una sola",
-    "Los mensajes de 1 a 3 emojis ahora se ven grandes y sin burbuja, como en WhatsApp"
+    "Barra superior del chat más compacta: foto de perfil y nombre más pequeños",
+    "La última conexión ahora se desplaza sola cuando no cabe, y «en línea» se ve como en WhatsApp",
+    "Nuevo diseño de burbujas: esquinas más redondeadas, la hora junto al texto y el mensaje más cerca del anterior si es de la misma persona",
+    "Un solo emoji se ve grande y sin burbuja; varios emojis juntos van en burbuja con letra grande",
+    "El texto de la caja de escribir es más grande y cómodo"
   ],
-  "enlace": "https://github.com/Mitsuki3124/nulo-app/releases/download/v1.5.6/nuloapp.apk",
+  "enlace": "https://github.com/Mitsuki3124/nulo-app/releases/download/v1.5.7/nuloapp.apk",
   "tamano": "pendiente MB"
 }
