@@ -1,14 +1,11 @@
 {
-  "version": "1.5.7",
-  "versionCode": 13,
+  "version": "1.5.8",
+  "versionCode": 14,
   "titulo": "¡Nueva versión disponible!",
   "cambios": [
-    "Barra superior del chat más compacta: foto de perfil y nombre más pequeños",
-    "La última conexión ahora se desplaza sola cuando no cabe, y «en línea» se ve como en WhatsApp",
-    "Nuevo diseño de burbujas: esquinas más redondeadas, la hora junto al texto y el mensaje más cerca del anterior si es de la misma persona",
-    "Un solo emoji se ve grande y sin burbuja; varios emojis juntos van en burbuja con letra grande",
-    "El texto de la caja de escribir es más grande y cómodo"
+    "La última conexión del chat ahora se desplaza una sola vez hasta el final (por ejemplo «12:44 p. m.») y se queda ahí, como en WhatsApp, en lugar de moverse sin parar",
+    "La app carga más rápido: fotos, horas, mensajes y archivos se guardan en memoria en vez de calcularse una y otra vez"
   ],
-  "enlace": "https://github.com/Mitsuki3124/nulo-app/releases/download/v1.5.7/nuloapp.apk",
+  "enlace": "https://github.com/Mitsuki3124/nulo-app/releases/download/v1.5.8/nuloapp.apk",
   "tamano": "pendiente MB"
 }
