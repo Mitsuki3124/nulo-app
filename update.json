@@ -1,11 +1,13 @@
 {
-  "version": "1.5.8",
-  "versionCode": 14,
+  "version": "1.5.9",
+  "versionCode": 15,
   "titulo": "¡Nueva versión disponible!",
   "cambios": [
-    "La última conexión del chat ahora se desplaza una sola vez hasta el final (por ejemplo «12:44 p. m.») y se queda ahí, como en WhatsApp, en lugar de moverse sin parar",
-    "La app carga más rápido: fotos, horas, mensajes y archivos se guardan en memoria en vez de calcularse una y otra vez"
+    "Los chats abren mucho más rápido: primero se cargan los últimos mensajes y el resto aparece al subir",
+    "Al abrir la app ya no se ve «Descargando…» en archivos que ya tenías, ni avisos falsos de «sin contactos» o «chat vacío» mientras carga",
+    "Las fotos de perfil de tus contactos se guardan en el teléfono y solo se descargan cuando alguien cambia su foto",
+    "Las fotos y los avatares aparecen sin congelar la pantalla"
   ],
-  "enlace": "https://github.com/Mitsuki3124/nulo-app/releases/download/v1.5.8/nuloapp.apk",
+  "enlace": "https://github.com/Mitsuki3124/nulo-app/releases/download/v1.5.9/nuloapp.apk",
   "tamano": "pendiente MB"
 }
